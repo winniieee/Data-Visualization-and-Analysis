@@ -1,7 +1,5 @@
-# Following  Prabhakaran's tutorial
-#install the package
+
 install.packages("tidyverse")
-#set up the ggplot2 library
 library(ggplot2)
 
 options(scipen=999)  # turn off scientific notation like 1e+06
